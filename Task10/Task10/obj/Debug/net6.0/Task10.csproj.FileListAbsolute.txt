@@ -1,0 +1,14 @@
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\bin\Debug\net6.0\Task10.exe
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\bin\Debug\net6.0\Task10.deps.json
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\bin\Debug\net6.0\Task10.runtimeconfig.json
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\bin\Debug\net6.0\Task10.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\bin\Debug\net6.0\Task10.pdb
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.AssemblyInfoInputs.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.AssemblyInfo.cs
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.csproj.CoreCompileInputs.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\refint\Task10.dll
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.pdb
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\Task10.genruntimeconfig.cache
+C:\Users\rusla\OneDrive\Sənədlər\AspNetCore\Console\Task10\Task10\obj\Debug\net6.0\ref\Task10.dll
